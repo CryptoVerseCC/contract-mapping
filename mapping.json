@@ -351,5 +351,22 @@
       }
     ],
     "is721": false
+  },
+  "UNICORN": {
+    "network": "ethereum",
+    "address": "0x89205a3a3b2a69de6dbf7f01ed13b2108b2c43e7",
+    "name": "Unicorn",
+    "symbol": "🦄",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://www.ethereum.org/"
+      },
+      {
+        "name": "Donations",
+        "url": "https://www.ethereum.org/donate"
+      }
+    ],
+    "is721": false
   }
 }
