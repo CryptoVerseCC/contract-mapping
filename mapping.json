@@ -368,5 +368,31 @@
       }
     ],
     "is721": false
+  },
+  "STATUS": {
+    "network": "ethereum",
+    "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "name": "Status",
+    "symbol": "SNT",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://status.im"
+      }
+    ],
+    "is721": false
+  },
+  "ZRX": {
+    "network": "ethereum",
+    "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "name": "ZRX",
+    "symbol": "ZRX",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://0xproject.com"
+      }
+    ],
+    "is721": false
   }
 }
