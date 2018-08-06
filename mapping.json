@@ -1,0 +1,21 @@
+{
+  "Cryptokitties": {
+    "symbol": "CK",
+    "address": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
+    "network": "ethereum",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://www.cryptokitties.co/"
+      },
+      {
+        "name": "Marketplace",
+        "url": "https://www.cryptokitties.co/search"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/cryptokitties"
+      }
+    ]
+  }
+}
