@@ -325,5 +325,31 @@
       }
     ],
     "is721": false
+  },
+  "GOLEM": {
+    "network": "ethereum",
+    "address": "0xa74476443119a942de498590fe1f2454d7d4ac0d",
+    "name": "Golem",
+    "symbol": "GNT",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://golem.network/"
+      }
+    ],
+    "is721": false
+  },
+  "OMNISEGO": {
+    "network": "ethereum",
+    "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+    "name": "OmiseGO",
+    "symbol": "OMG",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://omisego.network/"
+      }
+    ],
+    "is721": false
   }
 }
