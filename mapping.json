@@ -437,5 +437,18 @@
       }
     ],
     "is721": false
+  },
+  "PERCENT": {
+    "network": "ethereum",
+    "address": "0xc93058ca0cc2330b847c001c835fc926fedf5a07",
+    "name": "Percent",
+    "symbol": "％",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://???.??"
+      }
+    ],
+    "is721": false
   }
 }
