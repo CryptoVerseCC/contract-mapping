@@ -420,5 +420,22 @@
       }
     ],
     "is721": false
+  },
+  "TOKENX": {
+    "network": "ethereum",
+    "address": "0xb7fc08177bcba924255132f361084d7994eafcf0",
+    "name": "Token X",
+    "symbol": "TKX",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://???.??"
+      },
+      {
+        "name": "ForkDelta",
+        "url": "https://forkdelta.github.io/#!/trade/0xb7fc08177bcba924255132f361084d7994eafcf0-ETH"
+      }
+    ],
+    "is721": false
   }
 }
