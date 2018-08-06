@@ -4,20 +4,6 @@
     "address": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
     "name": "Cryptokitties",
     "network": "ethereum",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://www.cryptokitties.co/"
-      },
-      {
-        "name": "Marketplace",
-        "url": "https://www.cryptokitties.co/search"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/cryptokitties"
-      }
-    ],
     "is721": true
   },
   "AXIES": {
@@ -25,20 +11,6 @@
     "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
     "name": "Axies",
     "symbol": "AXIE",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://axieinfinity.com/"
-      },
-      {
-        "name": "Marketplace",
-        "url": "https://axieinfinity.com/marketplace"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/axie"
-      }
-    ],
     "is721": true
   },
   "CRYPTOBOTS": {
@@ -46,20 +18,6 @@
     "address": "0xf7a6e15dfd5cdd9ef12711bd757a9b6021abf643",
     "name": "Cryptobots",
     "symbol": "CBT",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "http://cryptobots.me/"
-      },
-      {
-        "name": "Marketplace",
-        "url": "https://cryptobots.me/auction/1#sale"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/cryptobots"
-      }
-    ],
     "is721": true
   },
   "ETH_MOJI": {
@@ -67,20 +25,6 @@
     "address": "0xa6d954d08877f8ce1224f6bfb83484c7d3abf8e9",
     "name": "EthMoji",
     "symbol": "MOJI",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://ethmoji.io/"
-      },
-      {
-        "name": "Marketplace",
-        "url": "https://ethmoji.io/compose/base"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/ethmoji"
-      }
-    ],
     "is721": true
   },
   "DIGITAL_ART_CHAIN": {
@@ -88,20 +32,6 @@
     "address": "0x323a3e1693e7a0959f65972f3bf2dfcb93239dfe",
     "name": "DigitalArtChain",
     "symbol": "DAC",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "http://digitalartchain.com/"
-      },
-      {
-        "name": "Marketplace",
-        "url": "http://digitalartchain.com/publish.html"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/digitalartchain"
-      }
-    ],
     "is721": true
   },
   "KNOWN_ORIGIN": {
@@ -109,16 +39,6 @@
     "address": "0xdde2d979e8d39bb8416eafcfc1758f3cab2c9c72",
     "name": "Known Origin",
     "symbol": "KODA",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://knownorigin.io"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/knownorigin"
-      }
-    ],
     "is721": true
   },
   "CRYPTO_STRIKERS": {
@@ -126,16 +46,6 @@
     "address": "0xdcaad9fd9a74144d226dbf94ce6162ca9f09ed7e",
     "name": "CryptoStrikers",
     "symbol": "STRK",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://www.cryptostrikers.com/"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/cryptostrikers"
-      }
-    ],
     "is721": true
   },
   "ETH_TOWN": {
@@ -143,16 +53,6 @@
     "address": "0x4fece400c0d3db0937162ab44bab34445626ecfe",
     "name": "ETH TOWN",
     "symbol": "HERO",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://eth.town/"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/ethtown"
-      }
-    ],
     "is721": true
   },
   "CHIBI_FIGHTERS": {
@@ -160,16 +60,6 @@
     "address": "0x71c118b00759b0851785642541ceb0f4ceea0bd5",
     "name": "Chibi Fighters",
     "symbol": "CBF",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://chibifighters.io/"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/chibifighters"
-      }
-    ],
     "is721": true
   },
   "CRYPTO_FIGHTERS": {
@@ -177,16 +67,6 @@
     "address": "0x87d598064c736dd0c712d329afcfaa0ccc1921a1",
     "name": "CryptoFighters",
     "symbol": "FIGHTER",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://cryptofighters.io"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/cryptofighters"
-      }
-    ],
     "is721": true
   },
   "CRYPTO_SAGA": {
@@ -194,16 +74,6 @@
     "address": "0xabc7e6c01237e8eef355bba2bf925a730b714d5f",
     "name": "CryptoSaga",
     "symbol": "SAGA",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://cryptosaga.io/"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/cryptosaga"
-      }
-    ],
     "is721": true
   },
   "ETHEREMON": {
@@ -211,16 +81,6 @@
     "address": "0xb2c0782ae4a299f7358758b2d15da9bf29e1dd99",
     "name": "Etheremon",
     "symbol": "MON",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://www.etheremon.com/"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/etheremon"
-      }
-    ],
     "is721": true
   },
   "MYTHEREUM": {
@@ -228,16 +88,6 @@
     "address": "0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0",
     "name": "Mythereum",
     "symbol": "MYTH",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://www.mythereum.io/"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/mythereum"
-      }
-    ],
     "is721": true
   },
   "PANDA_EARTH": {
@@ -245,16 +95,6 @@
     "address": "0x663e4229142a27f00bafb5d087e1e730648314c3",
     "name": "PandaEarth",
     "symbol": "PE",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://panda.earth"
-      },
-      {
-        "name": "OpenSea",
-        "url": "https://opensea.io/assets/pandaearth"
-      }
-    ],
     "is721": true
   },
   "AVOCADO": {
@@ -262,12 +102,6 @@
     "address": "0xfa6f7881e52fdf912c4a285d78a3141b089ce859",
     "name": "Avocado",
     "symbol": "AVO",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://tokntalk.club"
-      }
-    ],
     "is721": false
   },
   "BASIC_ATTENTION_TOKEN": {
@@ -275,12 +109,6 @@
     "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
     "name": "Basic Attention Token",
     "symbol": "BAT",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://???.??"
-      }
-    ],
     "is721": false
   },
   "BENTYN": {
@@ -288,16 +116,6 @@
     "address": "0x108c05cac356d93b351375434101cfd3e14f7e44",
     "name": "Bentyn",
     "symbol": "BEN",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://www.youtube.com/channel/UCcMCMdVFhU25uCpC4kJAo3A"
-      },
-      {
-        "name": "Exchange - Coinbe.net",
-        "url": "https://coinbe.net/market"
-      }
-    ],
     "is721": false
   },
   "DECENTRALAND_MANA": {
@@ -305,12 +123,6 @@
     "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
     "name": "Decentraland MANA",
     "symbol": "MANA",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://decentraland.org/"
-      }
-    ],
     "is721": false
   },
   "MAKER": {
@@ -318,12 +130,6 @@
     "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
     "name": "Maker",
     "symbol": "MKR",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://makerdao.com/"
-      }
-    ],
     "is721": false
   },
   "GOLEM": {
@@ -331,12 +137,6 @@
     "address": "0xa74476443119a942de498590fe1f2454d7d4ac0d",
     "name": "Golem",
     "symbol": "GNT",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://golem.network/"
-      }
-    ],
     "is721": false
   },
   "OMNISE_GO": {
@@ -344,12 +144,6 @@
     "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
     "name": "OmiseGO",
     "symbol": "OMG",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://omisego.network/"
-      }
-    ],
     "is721": false
   },
   "UNICORN": {
@@ -357,16 +151,6 @@
     "address": "0x89205a3a3b2a69de6dbf7f01ed13b2108b2c43e7",
     "name": "Unicorn",
     "symbol": "🦄",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://www.ethereum.org/"
-      },
-      {
-        "name": "Donations",
-        "url": "https://www.ethereum.org/donate"
-      }
-    ],
     "is721": false
   },
   "STATUS": {
@@ -374,12 +158,6 @@
     "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
     "name": "Status",
     "symbol": "SNT",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://status.im"
-      }
-    ],
     "is721": false
   },
   "ZRX": {
@@ -387,12 +165,6 @@
     "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
     "name": "ZRX",
     "symbol": "ZRX",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://0xproject.com"
-      }
-    ],
     "is721": false
   },
   "SANMARICOIN": {
@@ -400,12 +172,6 @@
     "address": "0xc5fdd3e4665b5d7bc4dc9102622d7cb0fe510b65",
     "name": "Sanmaricoin",
     "symbol": "SMC",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://twitter.com/sanmaricoin"
-      }
-    ],
     "is721": false
   },
   "KIYOSALO": {
@@ -413,12 +179,6 @@
     "address": "0x97d392337cc92564085ac51b99178a371c8bdcf3",
     "name": "Kiyosalo",
     "symbol": "KST",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://???.??"
-      }
-    ],
     "is721": false
   },
   "TOKEN_X": {
@@ -426,16 +186,6 @@
     "address": "0xb7fc08177bcba924255132f361084d7994eafcf0",
     "name": "Token X",
     "symbol": "TKX",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://???.??"
-      },
-      {
-        "name": "ForkDelta",
-        "url": "https://forkdelta.github.io/#!/trade/0xb7fc08177bcba924255132f361084d7994eafcf0-ETH"
-      }
-    ],
     "is721": false
   },
   "PERCENT": {
@@ -443,12 +193,6 @@
     "address": "0xc93058ca0cc2330b847c001c835fc926fedf5a07",
     "name": "Percent",
     "symbol": "％",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://???.??"
-      }
-    ],
     "is721": false
   },
   "DDGT": {
@@ -456,11 +200,6 @@
     "address": "0x3bc410be257b42804e2ad948f2c1c9798c0b9920",
     "name": "DDGT",
     "symbol": "DDGT",
-    "externalLinks": [
-      {
-        "name": "Project page",
-        "url": "https://decentraland.org/"
-      }
-    ]
+    "is721": false
   }
 }
