@@ -450,5 +450,17 @@
       }
     ],
     "is721": false
+  },
+  "DDGT": {
+    "network": "ethereum",
+    "address": "0x3bc410be257b42804e2ad948f2c1c9798c0b9920",
+    "name": "DDGT",
+    "symbol": "DDGT",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://decentraland.org/"
+      }
+    ]
   }
 }
