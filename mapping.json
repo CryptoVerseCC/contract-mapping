@@ -205,5 +205,22 @@
       }
     ],
     "is721": true
+  },
+  "ETHEREMON": {
+    "network": "ethereum",
+    "address": "0xb2c0782ae4a299f7358758b2d15da9bf29e1dd99",
+    "name": "Etheremon",
+    "symbol": "MON",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://www.etheremon.com/"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/etheremon"
+      }
+    ],
+    "is721": true
   }
 }
