@@ -188,5 +188,22 @@
       }
     ],
     "is721": true
+  },
+  "CRYPTOSAGA": {
+    "network": "ethereum",
+    "address": "0xabc7e6c01237e8eef355bba2bf925a730b714d5f",
+    "name": "CryptoSaga",
+    "symbol": "SAGA",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://cryptosaga.io/"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/cryptosaga"
+      }
+    ],
+    "is721": true
   }
 }
