@@ -103,5 +103,56 @@
       }
     ],
     "is721": true
+  },
+  "KNOWNORIGIN": {
+    "network": "ethereum",
+    "address": "0xdde2d979e8d39bb8416eafcfc1758f3cab2c9c72",
+    "name": "Known Origin",
+    "symbol": "KODA",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://knownorigin.io"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/knownorigin"
+      }
+    ],
+    "is721": true
+  },
+  "CRYPTOSTRIKERS": {
+    "network": "ethereum",
+    "address": "0xdcaad9fd9a74144d226dbf94ce6162ca9f09ed7e",
+    "name": "CryptoStrikers",
+    "symbol": "STRK",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://www.cryptostrikers.com/"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/cryptostrikers"
+      }
+    ],
+    "is721": true
+  },
+  "ETHTOWN": {
+    "network": "ethereum",
+    "address": "0x4fece400c0d3db0937162ab44bab34445626ecfe",
+    "name": "ETH TOWN",
+    "symbol": "HERO",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://eth.town/"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/ethtown"
+      }
+    ],
+    "is721": true
   }
 }
