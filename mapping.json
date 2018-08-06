@@ -222,5 +222,22 @@
       }
     ],
     "is721": true
+  },
+  "MYTHEREUM": {
+    "network": "ethereum",
+    "address": "0xc70be5b7c19529ef642d16c10dfe91c58b5c3bf0",
+    "name": "Mythereum",
+    "symbol": "MYTH",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://www.mythereum.io/"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/mythereum"
+      }
+    ],
+    "is721": true
   }
 }
