@@ -312,5 +312,18 @@
       }
     ],
     "is721": false
+  },
+  "MAKER": {
+    "network": "ethereum",
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "name": "Maker",
+    "symbol": "MKR",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://makerdao.com/"
+      }
+    ],
+    "is721": false
   }
 }
