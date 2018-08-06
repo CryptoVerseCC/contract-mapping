@@ -394,5 +394,18 @@
       }
     ],
     "is721": false
+  },
+  "SANMARICOIN": {
+    "network": "ethereum",
+    "address": "0xc5fdd3e4665b5d7bc4dc9102622d7cb0fe510b65",
+    "name": "Sanmaricoin",
+    "symbol": "SMC",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://twitter.com/sanmaricoin"
+      }
+    ],
+    "is721": false
   }
 }
