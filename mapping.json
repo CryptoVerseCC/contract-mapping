@@ -16,6 +16,28 @@
         "name": "OpenSea",
         "url": "https://opensea.io/assets/cryptokitties"
       }
-    ]
+    ],
+    "is721": true
+  },
+  "Axies": {
+    "network": "ethereum",
+    "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
+    "name": "Axies",
+    "symbol": "AXIE",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://axieinfinity.com/"
+      },
+      {
+        "name": "Marketplace",
+        "url": "https://axieinfinity.com/marketplace"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/axie"
+      }
+    ],
+    "is721": true
   }
 }
