@@ -62,7 +62,7 @@
     ],
     "is721": true
   },
-  "ETHMOJI": {
+  "ETH_MOJI": {
     "network": "ethereum",
     "address": "0xa6d954d08877f8ce1224f6bfb83484c7d3abf8e9",
     "name": "EthMoji",
@@ -83,7 +83,7 @@
     ],
     "is721": true
   },
-  "DIGITALARTCHAIN": {
+  "DIGITAL_ART_CHAIN": {
     "network": "ethereum",
     "address": "0x323a3e1693e7a0959f65972f3bf2dfcb93239dfe",
     "name": "DigitalArtChain",
@@ -104,7 +104,7 @@
     ],
     "is721": true
   },
-  "KNOWNORIGIN": {
+  "KNOWN_ORIGIN": {
     "network": "ethereum",
     "address": "0xdde2d979e8d39bb8416eafcfc1758f3cab2c9c72",
     "name": "Known Origin",
@@ -121,7 +121,7 @@
     ],
     "is721": true
   },
-  "CRYPTOSTRIKERS": {
+  "CRYPTO_STRIKERS": {
     "network": "ethereum",
     "address": "0xdcaad9fd9a74144d226dbf94ce6162ca9f09ed7e",
     "name": "CryptoStrikers",
@@ -138,7 +138,7 @@
     ],
     "is721": true
   },
-  "ETHTOWN": {
+  "ETH_TOWN": {
     "network": "ethereum",
     "address": "0x4fece400c0d3db0937162ab44bab34445626ecfe",
     "name": "ETH TOWN",
@@ -155,7 +155,7 @@
     ],
     "is721": true
   },
-  "CHIBIFIGHTERS": {
+  "CHIBI_FIGHTERS": {
     "network": "ethereum",
     "address": "0x71c118b00759b0851785642541ceb0f4ceea0bd5",
     "name": "Chibi Fighters",
@@ -172,7 +172,7 @@
     ],
     "is721": true
   },
-  "CRYPTOFIGHTERS": {
+  "CRYPTO_FIGHTERS": {
     "network": "ethereum",
     "address": "0x87d598064c736dd0c712d329afcfaa0ccc1921a1",
     "name": "CryptoFighters",
@@ -189,7 +189,7 @@
     ],
     "is721": true
   },
-  "CRYPTOSAGA": {
+  "CRYPTO_SAGA": {
     "network": "ethereum",
     "address": "0xabc7e6c01237e8eef355bba2bf925a730b714d5f",
     "name": "CryptoSaga",
@@ -240,7 +240,7 @@
     ],
     "is721": true
   },
-  "PandaEarth": {
+  "PANDA_EARTH": {
     "network": "ethereum",
     "address": "0x663e4229142a27f00bafb5d087e1e730648314c3",
     "name": "PandaEarth",
@@ -270,7 +270,7 @@
     ],
     "is721": false
   },
-  "BASICATTENTIONTOKEN": {
+  "BASIC_ATTENTION_TOKEN": {
     "network": "ethereum",
     "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
     "name": "Basic Attention Token",
@@ -300,7 +300,7 @@
     ],
     "is721": false
   },
-  "DECENTRALANDMANA": {
+  "DECENTRALAND_MANA": {
     "network": "ethereum",
     "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
     "name": "Decentraland MANA",
@@ -339,7 +339,7 @@
     ],
     "is721": false
   },
-  "OMNISEGO": {
+  "OMNISE_GO": {
     "network": "ethereum",
     "address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
     "name": "OmiseGO",
@@ -421,7 +421,7 @@
     ],
     "is721": false
   },
-  "TOKENX": {
+  "TOKEN_X": {
     "network": "ethereum",
     "address": "0xb7fc08177bcba924255132f361084d7994eafcf0",
     "name": "Token X",
