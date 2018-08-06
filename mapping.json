@@ -61,5 +61,26 @@
       }
     ],
     "is721": true
+  },
+  "ETHMOJI": {
+    "network": "ethereum",
+    "address": "0xa6d954d08877f8ce1224f6bfb83484c7d3abf8e9",
+    "name": "EthMoji",
+    "symbol": "MOJI",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://ethmoji.io/"
+      },
+      {
+        "name": "Marketplace",
+        "url": "https://ethmoji.io/compose/base"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/ethmoji"
+      }
+    ],
+    "is721": true
   }
 }
