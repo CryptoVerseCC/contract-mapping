@@ -282,5 +282,35 @@
       }
     ],
     "is721": false
+  },
+  "BENTYN": {
+    "network": "ethereum",
+    "address": "0x108c05cac356d93b351375434101cfd3e14f7e44",
+    "name": "Bentyn",
+    "symbol": "BEN",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://www.youtube.com/channel/UCcMCMdVFhU25uCpC4kJAo3A"
+      },
+      {
+        "name": "Exchange - Coinbe.net",
+        "url": "https://coinbe.net/market"
+      }
+    ],
+    "is721": false
+  },
+  "DECENTRALANDMANA": {
+    "network": "ethereum",
+    "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "name": "Decentraland MANA",
+    "symbol": "MANA",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://decentraland.org/"
+      }
+    ],
+    "is721": false
   }
 }
