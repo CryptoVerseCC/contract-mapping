@@ -407,5 +407,18 @@
       }
     ],
     "is721": false
+  },
+  "KIYOSALO": {
+    "network": "ethereum",
+    "address": "0x97d392337cc92564085ac51b99178a371c8bdcf3",
+    "name": "Kiyosalo",
+    "symbol": "KST",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://???.??"
+      }
+    ],
+    "is721": false
   }
 }
