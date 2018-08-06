@@ -154,5 +154,22 @@
       }
     ],
     "is721": true
+  },
+  "CHIBIFIGHTERS": {
+    "network": "ethereum",
+    "address": "0x71c118b00759b0851785642541ceb0f4ceea0bd5",
+    "name": "Chibi Fighters",
+    "symbol": "CBF",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://chibifighters.io/"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/chibifighters"
+      }
+    ],
+    "is721": true
   }
 }
