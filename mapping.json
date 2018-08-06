@@ -1,7 +1,8 @@
 {
-  "Cryptokitties": {
+  "CRYPTOKITTIES": {
     "symbol": "CK",
     "address": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
+    "name": "Cryptokitties",
     "network": "ethereum",
     "externalLinks": [
       {
@@ -19,7 +20,7 @@
     ],
     "is721": true
   },
-  "Axies": {
+  "AXIES": {
     "network": "ethereum",
     "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
     "name": "Axies",
@@ -36,6 +37,27 @@
       {
         "name": "OpenSea",
         "url": "https://opensea.io/assets/axie"
+      }
+    ],
+    "is721": true
+  },
+  "CRYPTOBOTS": {
+    "network": "ethereum",
+    "address": "0xf7a6e15dfd5cdd9ef12711bd757a9b6021abf643",
+    "name": "Cryptobots",
+    "symbol": "CBT",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "http://cryptobots.me/"
+      },
+      {
+        "name": "Marketplace",
+        "url": "https://cryptobots.me/auction/1#sale"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/cryptobots"
       }
     ],
     "is721": true
