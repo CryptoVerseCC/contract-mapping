@@ -171,5 +171,22 @@
       }
     ],
     "is721": true
+  },
+  "CRYPTOFIGHTERS": {
+    "network": "ethereum",
+    "address": "0x87d598064c736dd0c712d329afcfaa0ccc1921a1",
+    "name": "CryptoFighters",
+    "symbol": "FIGHTER",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://cryptofighters.io"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/cryptofighters"
+      }
+    ],
+    "is721": true
   }
 }
