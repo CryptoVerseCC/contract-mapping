@@ -239,5 +239,48 @@
       }
     ],
     "is721": true
+  },
+  "PandaEarth": {
+    "network": "ethereum",
+    "address": "0x663e4229142a27f00bafb5d087e1e730648314c3",
+    "name": "PandaEarth",
+    "symbol": "PE",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://panda.earth"
+      },
+      {
+        "name": "OpenSea",
+        "url": "https://opensea.io/assets/pandaearth"
+      }
+    ],
+    "is721": true
+  },
+  "AVOCADO": {
+    "network": "ethereum",
+    "address": "0xfa6f7881e52fdf912c4a285d78a3141b089ce859",
+    "name": "Avocado",
+    "symbol": "AVO",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://tokntalk.club"
+      }
+    ],
+    "is721": false
+  },
+  "BASICATTENTIONTOKEN": {
+    "network": "ethereum",
+    "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "externalLinks": [
+      {
+        "name": "Project page",
+        "url": "https://???.??"
+      }
+    ],
+    "is721": false
   }
 }
