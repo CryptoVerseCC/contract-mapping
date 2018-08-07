@@ -1,0 +1,50 @@
+import groovy.json.JsonSlurper
+
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.2.51'
+}
+
+group 'io.userfeeds'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+    compile "com.squareup.moshi:moshi-kotlin:1.6.0"
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+
+private static def generateContractProperty(key, value) {
+    return "val $key = ${generateContract(value)}\n"
+}
+
+private static String generateContract(value) {
+    return "Contract(symbol=\"${value.symbol}\",address=\"${value.address}\",name=\"${value.name}\",network=\"${value.network}\",is721=${value.is721})"
+}
+
+task generateSources {
+    def outputDir = file("$buildDir/generated-src")
+    outputs.dir outputDir
+    doLast {
+        def srcFile = new File(outputDir, "io/userfeeds/contractmapping/Contracts.kt")
+        srcFile.parentFile.mkdirs()
+        def inputFile = new File("${rootDir}/mapping.json")
+        def json = new JsonSlurper().parse(inputFile)
+        def generatedSource = "package io.userfeeds.contractmapping\n" + "class Contracts {\n"
+        json.each { key, value -> generatedSource += generateContractProperty(key, value) }
+        generatedSource += "}\n"
+        srcFile.write(generatedSource)
+    }
+}
+compileKotlin.dependsOn generateSources
+sourceSets.main.java.srcDirs += generateSources.outputs.files
+
