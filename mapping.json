@@ -211,7 +211,7 @@
   },
   "CRYPTO_VOXELS": {
     "network": "ethereum",
-    "address": "0x79986aF15539de2db9A5086382daEdA917A9CF0C",
+    "address": "0x79986af15539de2db9a5086382daeda917a9cf0c",
     "name": "Cryptovoxels",
     "symbol": "CVPA",
     "is721": true
