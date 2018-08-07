@@ -208,5 +208,12 @@
     "name": "CryptoCows",
     "symbol": "CTN",
     "is721": true
+  },
+    "CRYPTO_VOXELS": {
+    "network": "ethereum",
+    "address": "0x79986aF15539de2db9A5086382daEdA917A9CF0C",
+    "name": "Cryptovoxels",
+    "symbol": "CVPA",
+    "is721": true
   }
 }
