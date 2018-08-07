@@ -201,5 +201,12 @@
     "name": "dApps Developers Guild",
     "symbol": "DDGT",
     "is721": false
+  },
+  "CRYPTO_COWS": {
+    "network": "ethereum",
+    "address": "0xd4202b234c15255bf0511d3380e83bda9172a72b",
+    "name": "CryptoCows",
+    "symbol": "CTN",
+    "is721": true
   }
 }
