@@ -48,3 +48,11 @@ task generateSources {
 compileKotlin.dependsOn generateSources
 sourceSets.main.java.srcDirs += generateSources.outputs.files
 
+task sourcesJar(type: Jar) {
+    from sourceSets.main.allSource
+    classifier = 'sources'
+}
+
+artifacts {
+    archives sourcesJar
+}
