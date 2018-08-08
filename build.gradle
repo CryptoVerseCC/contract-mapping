@@ -23,12 +23,19 @@ compileTestKotlin {
     kotlinOptions.jvmTarget = "1.8"
 }
 
-private static def generateContractProperty(key, value) {
+private static def generateContractField(key, value) {
     return "val $key = ${generateContract(value)}\n"
 }
 
 private static String generateContract(value) {
     return "Contract(symbol=\"${value.symbol}\",address=\"${value.address}\",name=\"${value.name}\",network=\"${value.network}\",is721=${value.is721})"
+}
+
+private static String generateListOfAllContracts(json) {
+    def result = "val ALL=listOf("
+    result += json.collect { _, value -> generateContract(value) }.join(", ")
+    result += ")\n"
+    return result
 }
 
 task generateSources {
@@ -39,12 +46,14 @@ task generateSources {
         srcFile.parentFile.mkdirs()
         def inputFile = new File("${rootDir}/mapping.json")
         def json = new JsonSlurper().parse(inputFile)
-        def generatedSource = "package io.userfeeds.contractmapping\n" + "object CONTRACTS {\n"
-        json.each { key, value -> generatedSource += generateContractProperty(key, value) }
-        generatedSource += "}\n"
-        srcFile.write(generatedSource)
+        def sourceCode = "package io.userfeeds.contractmapping\n" + "object CONTRACTS {\n"
+        sourceCode += json.collect { key, value -> generateContractField(key, value) }.join()
+        sourceCode += generateListOfAllContracts(json)
+        sourceCode += "}\n"
+        srcFile.write(sourceCode)
     }
 }
+
 compileKotlin.dependsOn generateSources
 sourceSets.main.java.srcDirs += generateSources.outputs.files
 
