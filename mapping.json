@@ -215,5 +215,12 @@
     "name": "Cryptovoxels",
     "symbol": "CVPA",
     "is721": true
+  },
+    "CRYPTO_CRYSTALS": {
+    "network": "ethereum",
+    "address": "0xcfbc9103362aec4ce3089f155c2da2eea1cb7602",
+    "name": "CryptoCrystal",
+    "symbol": "CC",
+    "is721": true
   }
 }
