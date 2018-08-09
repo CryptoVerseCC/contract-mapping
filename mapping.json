@@ -216,11 +216,18 @@
     "symbol": "CVPA",
     "is721": true
   },
-    "CRYPTO_CRYSTALS": {
+  "CRYPTO_CRYSTALS": {
     "network": "ethereum",
     "address": "0xcfbc9103362aec4ce3089f155c2da2eea1cb7602",
     "name": "CryptoCrystal",
     "symbol": "CC",
+    "is721": true
+  },
+  "BLOCKCHAIN_CUTIES": {
+    "network": "ethereum",
+    "address": "0xd73be539d6b2076bab83ca6ba62dfe189abc6bbe",
+    "name": "BlockchainCuties",
+    "symbol": "BC",
     "is721": true
   }
 }
