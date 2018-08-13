@@ -237,6 +237,13 @@
     "symbol": "DSB",
     "is721": false
   },
+  "TOKENVILLE": {
+    "network": "ethereum",
+    "address": "0xF3E693175Db47264c99ECa0F1C1C4A2C1AeD3Bd7",
+    "name": "Tokenville",
+    "symbol": "TV",
+    "is721": false
+  },
   "BLOCKCHAIN_CUTIES": {
     "network": "ethereum",
     "address": "0xd73be539d6b2076bab83ca6ba62dfe189abc6bbe",
