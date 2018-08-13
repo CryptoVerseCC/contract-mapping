@@ -223,6 +223,20 @@
     "symbol": "CC",
     "is721": true
   },
+   "BAOBOSHICOIN": {
+    "network": "ethereum",
+    "address": "0xf89ba2862dfae69bc2546568d56b087d7454c9c9",
+    "name": "BaoBoShiCoin",
+    "symbol": "BBSC",
+    "is721": false
+  },
+  "DASABI": {
+    "network": "ethereum",
+    "address": "0xe43dcc132775d230675c6e093243aaefb61489fc",
+    "name": "DaSaBi",
+    "symbol": "DSB",
+    "is721": false
+  },
   "BLOCKCHAIN_CUTIES": {
     "network": "ethereum",
     "address": "0xd73be539d6b2076bab83ca6ba62dfe189abc6bbe",
