@@ -239,7 +239,7 @@
   },
   "TOKENVILLE": {
     "network": "ethereum",
-    "address": "0xF3E693175Db47264c99ECa0F1C1C4A2C1AeD3Bd7",
+    "address": "0xf3e693175db47264c99eca0f1c1c4a2c1aed3bd7",
     "name": "Tokenville",
     "symbol": "TV",
     "is721": false
