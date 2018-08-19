@@ -251,6 +251,13 @@
     "symbol": "BC",
     "is721": true
   },
+  "SNOOKARMA": {
+    "network": "ethereum",
+    "address": "0xfd8a88ad07195f603cbc48653c559b63831210d8",
+    "name": "SnooKarma",
+    "symbol": "SNK",
+    "is721": false
+  },
   "CANDY": {
     "network": "ethereum",
     "address": "0xcd3673af09e76c74d889aabab68ca0645566a3a1",
