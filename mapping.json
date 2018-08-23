@@ -279,6 +279,13 @@
     "symbol": "CG",
     "is721": true
   },
+  "NFTY_TOKEN": {
+    "network": "ethereum",
+    "address": "0xdd89d6ab3aca67ed697492ba4de2f2763490224b",
+    "name": "NFTY Token",
+    "symbol": "NFTY",
+    "is721": false
+  },
   "CANDY": {
     "network": "ethereum",
     "address": "0xcd3673af09e76c74d889aabab68ca0645566a3a1",
