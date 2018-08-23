@@ -265,6 +265,20 @@
     "symbol": "SNK",
     "is721": false
   },
+  "GODS_UNCHAINED": {
+    "network": "ethereum",
+    "address": "0x6EbeAf8e8E946F0716E6533A6f2cefc83f60e8Ab",
+    "name": "Gods Unchained",
+    "symbol": "GODS",
+    "is721": true
+  },
+  "CRYPTOGIRLS": {
+    "network": "ethereum",
+    "address": "0xb71b092367b638b93bac3e0a2d5c7f411e9c89be",
+    "name": "Cryptogirl",
+    "symbol": "CG",
+    "is721": true
+  },
   "CANDY": {
     "network": "ethereum",
     "address": "0xcd3673af09e76c74d889aabab68ca0645566a3a1",
