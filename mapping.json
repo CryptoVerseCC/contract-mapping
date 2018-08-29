@@ -288,7 +288,7 @@
   },
   "JOHN_ORION_YOUNG": {
     "network": "ethereum",
-    "address": "0x96313f2C374F901E3831ea6DE67b1165c4f39A54",
+    "address": "0x96313f2c374f901e3831ea6de67b1165c4f39a54",
     "name": "John Orion Young",
     "symbol": "JOY",
     "is721": true
