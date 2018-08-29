@@ -286,6 +286,13 @@
     "symbol": "NFTY",
     "is721": false
   },
+  "JOHN_ORION_YOUNG": {
+    "network": "ethereum",
+    "address": "0x96313f2C374F901E3831ea6DE67b1165c4f39A54",
+    "name": "John Orion Young",
+    "symbol": "JOY",
+    "is721": true
+  },
   "CANDY": {
     "network": "ethereum",
     "address": "0xcd3673af09e76c74d889aabab68ca0645566a3a1",
