@@ -279,6 +279,13 @@
     "symbol": "CG",
     "is721": true
   },
+  "Coinbase Wallet Crypto Swag": {
+    "network": "ethereum",
+    "address": "0xaee0d7153ca6ee29ad56949d41aafcce788db555",
+    "name": "Coinbase Wallet Crypto Swag",
+    "symbol": "CBWCS",
+    "is721": true
+  },
   "NFTY_TOKEN": {
     "network": "ethereum",
     "address": "0xdd89d6ab3aca67ed697492ba4de2f2763490224b",
