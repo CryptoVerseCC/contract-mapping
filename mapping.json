@@ -300,6 +300,20 @@
     "symbol": "JOY",
     "is721": true
   },
+  "DIGIX_GLOBAL": {
+    "network": "ethereum",
+    "address": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
+    "name": "Digix Global",
+    "symbol": "DGD",
+    "is721": false
+  },
+  "WAR_RIDERS": {
+    "network": "ethereum",
+    "address": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
+    "name": "War Riders",
+    "symbol": "WR",
+    "is721": true
+  },
   "CANDY": {
     "network": "ethereum",
     "address": "0xcd3673af09e76c74d889aabab68ca0645566a3a1",
