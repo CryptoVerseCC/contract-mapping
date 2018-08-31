@@ -279,7 +279,7 @@
     "symbol": "CG",
     "is721": true
   },
-  "Coinbase Wallet Crypto Swag": {
+  "COINBASE_WALLET_CRYPTO_SWAG": {
     "network": "ethereum",
     "address": "0xaee0d7153ca6ee29ad56949d41aafcce788db555",
     "name": "Coinbase Wallet Crypto Swag",
