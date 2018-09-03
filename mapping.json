@@ -258,6 +258,13 @@
     "symbol": "BC",
     "is721": true
   },
+  "DUMMY_COIN": {
+    "network": "ethereum",
+    "address": "0xa443b90bd421ca4d75f0fcd5ca0147b2679b8e73",
+    "name": "DummyCoin",
+    "symbol": "DUMY",
+    "is721": false
+  },
   "SNOOKARMA": {
     "network": "ethereum",
     "address": "0xfd8a88ad07195f603cbc48653c559b63831210d8",
