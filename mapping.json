@@ -331,7 +331,7 @@
   "DOMRAIDER": {
     "network": "ethereum",
     "address": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
-    "name": "Dom Raider",
+    "name": "DomRaider",
     "symbol": "DRT",
     "is721": false
   },
