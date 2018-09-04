@@ -321,6 +321,34 @@
     "symbol": "WR",
     "is721": true
   },
+  "PLAYERTOKENS": {
+    "network": "ethereum",
+    "address": "0x9d9c250311b65803c895cc77f878b8092019dedc",
+    "name": "Player Tokens",
+    "symbol": "PTI",
+    "is721": true
+  },
+  "DOMRIDER": {
+    "network": "ethereum",
+    "address": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+    "name": "Dom Raider",
+    "symbol": "DRT",
+    "is721": false
+  },
+  "HYPERDRAGONS": {
+    "network": "ethereum",
+    "address": "0x7fdcd2a1e52f10c28cb7732f46393e297ecadda1",
+    "name": "Hyperdragons",
+    "symbol": "HD",
+    "is721": true
+  },
+  "CRYPTOBASEBALL": {
+    "network": "ethereum",
+    "address": "0x8c9b261faef3b3c2e64ab5e58e04615f8c788099",
+    "name": "MLB Crypto Baseball",
+    "symbol": "MLBCB",
+    "is721": true
+  },
   "CANDY": {
     "network": "ethereum",
     "address": "0xcd3673af09e76c74d889aabab68ca0645566a3a1",
