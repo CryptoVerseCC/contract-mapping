@@ -13,6 +13,13 @@
     "symbol": "AXIE",
     "is721": true
   },
+  "0XUNIVERSE": {
+    "network": "ethereum",
+    "address": "0x06a6a7af298129e3a2ab396c9c06f91d3c54aba8",
+    "name": "0xUniverse",
+    "symbol": "PLANET",
+    "is721": true
+  },
   "CRYPTOBOTS": {
     "network": "ethereum",
     "address": "0xf7a6e15dfd5cdd9ef12711bd757a9b6021abf643",
