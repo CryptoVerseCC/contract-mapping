@@ -6,6 +6,13 @@
     "network": "ethereum",
     "is721": true
   },
+  "AIRSWAP": {
+    "network": "ethereum",
+    "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+    "name": "AirSwap",
+    "symbol": "AST",
+    "is721": false
+  },
   "AXIES": {
     "network": "ethereum",
     "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
