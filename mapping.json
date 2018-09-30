@@ -369,5 +369,19 @@
     "name": "Unicorn Candy Coin",
     "symbol": "Candy",
     "is721": false
+  },
+  "FANBITS": {
+    "network": "ethereum",
+    "address": "0xe897e5953ef250bd49875fe7a48254def92730b9",
+    "name": "Fan Bits",
+    "symbol": "FBT",
+    "is721": true
+  },
+  "MOKENS": {
+    "network": "ethereum",
+    "address": "0xaaf401585b72c678afc09036510d3ef759bdaf7e",
+    "name": "Mokens",
+    "symbol": "MKN",
+    "is721": true
   }
 }
