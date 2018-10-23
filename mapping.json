@@ -383,5 +383,12 @@
     "name": "Mokens",
     "symbol": "MKN",
     "is721": true
+  },
+  "TTBEGINNERS": {
+    "network": "ethereum",
+    "address": "0x22ab5db2a16fc0f7d1db993d2c22f85f02387184",
+    "name": "Tokntalk.club Beginners Club",
+    "symbol": "TTBEGINNERS",
+    "is721": false
   }
 }
